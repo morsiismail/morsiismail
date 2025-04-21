@@ -14,7 +14,7 @@
     </head>
     <body>
     
-        <h1>Travel to .....</h1>
+        <h1>Travel to ....</h1>
         <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/seasonal/snowy-slope-with-trees.png" width="200" >  
         
         <p class="y"> This is the besst pleas to viset <em> <strong> in:  </strong></em>  </p>
